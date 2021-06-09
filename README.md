@@ -1,5 +1,7 @@
 # Step By Step Project (SxS)
 
+Refactored version can be found here: https://github.com/icodebyamanda/sxs_beta
+
 ## Run Your Development Servers
 
 - Run `yarn start` or `npm start`in project directory to start the Express server on port 5000
